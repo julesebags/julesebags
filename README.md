@@ -1,4 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Julie! 👋
+
+📄 Connect with me and view my experiences [on LinkedIn](https://www.linkedin.com/in/julie-baguio/)  
+🚀 Check out one of my deployed projects: [People's Voice Survey Dashboard](http://3.14.111.167/)  
+🏆 1st Place – [2025 Google DevFest WashU Hackathon](https://gdg.community.dev/events/details/google-gdg-on-campus-washington-university-in-st-louis-st-louis-united-states-presents-devfest-washu-2025/)
+
+🛠️ Tech I'm comfortable with:  
+**Languages:** C++, C#, Python, JavaScript, TypeScript, Java, HTML/CSS  
+**Frameworks & Tools:** React, React Native, Flask, Node.js, Express  
+**Cloud & Databases:** Firebase, AWS, MySQL, SQLAlchemy
+
+Currently my projects repos are private but stay tuned!
 
 <!--
 **julesebags/julesebags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
