@@ -15,10 +15,7 @@ HTML | CSS | React | React Native | Flask | FastAPI | Express
 **Cloud & DevOps:**
 AWS | Docker | Kubernetes
 
-
-
-
-Many of my projects repos are private but stay tuned!
+View some of my projects below!
 
 <!--
 **julesebags/julesebags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
