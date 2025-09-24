@@ -4,12 +4,21 @@
 🚀 Check out one of my deployed projects: [People's Voice Survey Dashboard](http://3.14.111.167/)  
 🏆 Built [Tailor](https://github.com/aaronhubhachen/tailor) and won 1st Place at [2025 Google DevFest WashU Hackathon](https://gdg.community.dev/events/details/google-gdg-on-campus-washington-university-in-st-louis-st-louis-united-states-presents-devfest-washu-2025/)
 
-🛠️ Tech I'm comfortable with:  
-**Languages:** C++, C#, Python, JavaScript, TypeScript, Java, HTML/CSS  
-**Frameworks & Tools:** React, React Native, Flask, Node.js, Express  
-**Cloud & Databases:** Firebase, AWS, MySQL, SQLAlchemy
 
-Currently my projects repos are private but stay tuned!
+🛠️ Tech I'm comfortable with:  
+**Programming Languages:**
+Python | Java | JavaScript | TypeScript | C++ | SQL
+
+**Web & Mobile Development:**
+HTML | CSS | React | React Native | Flask | FastAPI | Express
+
+**Cloud & DevOps:**
+AWS | Docker | Kubernetes
+
+
+
+
+Many of my projects repos are private but stay tuned!
 
 <!--
 **julesebags/julesebags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
