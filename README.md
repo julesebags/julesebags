@@ -1,4 +1,4 @@
-### Hi there, I'm Julie! 👋
+### Hi, I'm Julie!
 
 📄 Connect with me and view my experiences [on LinkedIn](https://www.linkedin.com/in/julie-baguio/)  
 🚀 Check out one of my deployed projects: [People's Voice Survey Dashboard](http://3.14.111.167/)  
